@@ -1,1 +1,0 @@
-/* These are the exercises for learning SQL */
